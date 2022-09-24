@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+background-color: grey;
+border-color: black;
+}
+
+body{
+	background-color: white;
+	color: Black;
+}
+
+.center{
+	width: 70%;
+	background-color: black;
+
+}
+
+.container
+{
+	background-color: grey;
+}
+
+.text-center{
+	font-size: 40px;
+}
+
+h2{
+	text-align: center;
+}
+#myNavbar ul li a {
+	color: white;
+	text-align-last: center;
+}
+.navbar-brand{
+font-size: 35px;	
+}
